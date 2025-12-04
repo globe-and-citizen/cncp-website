@@ -1,3 +1,14 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: 'Features - CNC Portal',
+  description: 'Explore CNC Portal features: smart contract management, token creation, governance tools, voting systems, payment automation, and third-party integrations.',
+  ogTitle: 'Features - CNC Portal',
+  ogDescription: 'Everything you need to create and manage your Crypto Native Corporation. Smart contracts, token management, governance, and more.',
+  ogType: 'website',
+  twitterCard: 'summary_large_image',
+})
+</script>
+
 <template>
   <div class="py-16 dark:bg-gray-900">
     <div class="container mx-auto px-4">

@@ -168,6 +168,13 @@
   </div>
 </template>
 
-<script setup>
-// Add any necessary component logic here
+<script setup lang="ts">
+useSeoMeta({
+  title: 'Get Started - CNC Portal',
+  description: 'Begin your journey to create a Crypto Native Corporation. Set up your organization, define governance, and configure token economics in minutes.',
+  ogTitle: 'Get Started - CNC Portal',
+  ogDescription: 'Create your Crypto Native Corporation today. Our guided process helps you set up governance, token distribution, and organizational structure.',
+  ogType: 'website',
+  twitterCard: 'summary_large_image',
+})
 </script>

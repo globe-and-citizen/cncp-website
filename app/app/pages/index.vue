@@ -1,3 +1,14 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: 'CNC Portal - The Future of Corporate Organization',
+  description: 'CNC Portal enables the creation and management of Crypto Native Corporations - a revolutionary way to build and scale companies using blockchain technology.',
+  ogTitle: 'CNC Portal - The Future of Corporate Organization',
+  ogDescription: 'Build and scale your company with blockchain technology. Create globally distributed organizations with tokenized ownership and efficient governance.',
+  ogType: 'website',
+  twitterCard: 'summary_large_image',
+})
+</script>
+
 <template>
   <div class="dark:bg-gray-900">
     <!-- Hero Section -->

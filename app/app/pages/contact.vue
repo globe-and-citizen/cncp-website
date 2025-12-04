@@ -1,3 +1,14 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: 'Contact Us - CNC Portal',
+  description: 'Get in touch with the CNC Portal team. Join our Discord community, access documentation, and find answers to frequently asked questions.',
+  ogTitle: 'Contact Us - CNC Portal',
+  ogDescription: 'Have questions about Crypto Native Corporations? Connect with our community on Discord or explore our documentation.',
+  ogType: 'website',
+  twitterCard: 'summary_large_image',
+})
+</script>
+
 <template>
   <div class="py-16 dark:bg-gray-900">
     <div class="container mx-auto px-4">

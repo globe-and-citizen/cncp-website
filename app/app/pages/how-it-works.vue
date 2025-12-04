@@ -1,3 +1,16 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: "How It Works - CNC Portal",
+  description:
+    "Learn how CNC Portal works: from initial concept to community building, organizational structure, growth, and value distribution for your Crypto Native Corporation.",
+  ogTitle: "How It Works - CNC Portal",
+  ogDescription:
+    "A step-by-step guide to creating and managing your Crypto Native Corporation. Build, scale, and distribute value with blockchain technology.",
+  ogType: "website",
+  twitterCard: "summary_large_image",
+});
+</script>
+
 <template>
   <div class="py-16 dark:bg-gray-900">
     <div class="container mx-auto px-4">

@@ -1,3 +1,14 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: 'Terms of Service - CNC Portal',
+  description: 'Read the CNC Portal Terms of Service. Understand your rights, restrictions, and responsibilities when using our platform for Crypto Native Corporations.',
+  ogTitle: 'Terms of Service - CNC Portal',
+  ogDescription: 'CNC Portal Terms of Service: Agreement terms, usage license, restrictions, and platform guidelines.',
+  ogType: 'website',
+  twitterCard: 'summary',
+})
+</script>
+
 <template>
   <div class="py-16">
     <div class="container mx-auto px-4">

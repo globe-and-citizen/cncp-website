@@ -1,3 +1,14 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: 'Privacy Policy - CNC Portal',
+  description: 'Learn how CNC Portal collects, uses, and protects your personal information. Read our privacy policy for details on data security and your rights.',
+  ogTitle: 'Privacy Policy - CNC Portal',
+  ogDescription: 'CNC Portal Privacy Policy: How we handle your data, information security, and your privacy rights.',
+  ogType: 'website',
+  twitterCard: 'summary',
+})
+</script>
+
 <template>
   <div class="py-16">
     <div class="container mx-auto px-4">

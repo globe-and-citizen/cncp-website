@@ -1,3 +1,14 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: 'Use Cases - CNC Portal',
+  description: 'Discover CNC Portal use cases: AI service providers, digital art collectives, open source development, and more. See how organizations leverage the CNC model.',
+  ogTitle: 'Use Cases - CNC Portal',
+  ogDescription: 'Real-world applications of Crypto Native Corporations. From AI services to art collectives and open source projects.',
+  ogType: 'website',
+  twitterCard: 'summary_large_image',
+})
+</script>
+
 <template>
   <div class="py-24 dark:bg-gray-900">
     <div class="container mx-auto px-4">
